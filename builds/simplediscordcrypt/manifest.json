@@ -1,0 +1,14 @@
+{
+  "id": "simplediscordcrypt",
+  "spec": 3,
+  "version": "1.0.1",
+  "type": "plugin",
+  "display": {
+    "name": "SimpleDiscordCrypt Revenge",
+    "description": "Port Android/Revenge Classic de SimpleDiscordCrypt pour messages texte chiffrés.",
+    "authors": [
+      { "name": "SimpleDiscordCrypt port" }
+    ]
+  },
+  "main": "index.js"
+}

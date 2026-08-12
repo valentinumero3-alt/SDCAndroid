@@ -1,0 +1,10 @@
+{
+  "$meta": {
+    "name": "SDCAndroid",
+    "description": "SimpleDiscordCrypt pour Revenge Classic Android"
+  },
+  "simplediscordcrypt": {
+    "version": "1.0.1",
+    "alwaysFetch": true
+  }
+}

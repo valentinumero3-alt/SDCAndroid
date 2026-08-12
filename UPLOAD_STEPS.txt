@@ -1,0 +1,8 @@
+1) Dans GitHub, ouvre valentinumero3-alt/SDCAndroid.
+2) Supprime les anciens fichiers/dossiers du dépôt (ou crée un nouveau commit qui les remplace).
+3) Uploade le CONTENU de ce dossier à la racine : repo.json, README.md, builds/.
+4) Vérifie dans GitHub que ce chemin existe : builds/simplediscordcrypt/index.js
+5) Vérifie dans le navigateur :
+   https://raw.githubusercontent.com/valentinumero3-alt/SDCAndroid/main/repo.json
+6) Dans Revenge, colle EXACTEMENT :
+   https://raw.githubusercontent.com/valentinumero3-alt/SDCAndroid/main/
