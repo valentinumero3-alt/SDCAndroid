@@ -1,0 +1,13 @@
+{
+  "name": "SimpleDiscordCrypt Revenge",
+  "description": "Port Android/Revenge Classic de SimpleDiscordCrypt pour messages texte chiffrés.",
+  "authors": [
+    {
+      "name": "SimpleDiscordCrypt port"
+    }
+  ],
+  "main": "plugin.js",
+  "vendetta": {
+    "icon": "LockIcon"
+  }
+}
